@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @gzifalsi, I'm a student at PoliMi
-- 👀 I’m interested in nerdy things and messing with computers
-- 🌱 I’m currently learning (we always do)
-- 💞️ I’m looking to collaborate on cool stuff, idk
-- 📫 Don't forget "--no-preserve-root" when you run "sudo rm -rvf /" <3
-
-<!---
-gzifalsi/gzifalsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```python
+class Giacomo:
+  def __init__(self):
+    self.firstname = "Giacomo"
+    self.lastname = "Ziveri"
+    self.education = {"BSc in Computer Engineering": "PoliMi"}
+    self.interests = ["Penetration Testing", "Computer Hardware", "Cryptocurrencies", "Linux"]
+    self.hobbies = ["Calisthenics", "Music", "Messing with computers"]
+    self.company = {"API Management intern": "Alten Italy, Milan"}
+```
