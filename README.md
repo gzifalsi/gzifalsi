@@ -6,5 +6,5 @@ class Giacomo:
     self.education = {"BSc in Computer Engineering": "PoliMi"}
     self.interests = ["Penetration Testing", "Computer Hardware", "Cryptocurrencies", "Linux"]
     self.hobbies = ["Calisthenics", "Music", "Messing with computers"]
-    self.company = {"API Management intern": "Alten Italy, Milan"}
+    self.company = {"API Management Intern": "Alten Italy, Milan"}
 ```
